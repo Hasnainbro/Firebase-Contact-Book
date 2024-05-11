@@ -8,3 +8,23 @@ This is a simple React application that allows you to manage contacts using Fire
 * View a list of existing contacts
 * Update contact information (name and email)
 * Form validation for contact details
+
+## Technologies Used
+
+* React
+* Firebase (Cloud Firestore)
+* Formik (for form handling)
+* Yup (for form validation)
+* react-toastify (for success notifications)
+
+## Dependencies
+
+This project has the following dependencies: 
+
+- `react`: Core React library
+- `react-dom`: React package for working with the DOM
+- `firebase`: Firebase SDK for JavaScript
+- `formik`: Library for building forms in React
+- `yup`: Object schema validator and object parser
+- `react-toastify`: React library for adding toast notifications
+- `react-icons`: Popular icons for React projects
