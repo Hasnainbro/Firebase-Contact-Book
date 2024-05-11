@@ -2,7 +2,7 @@
 
 This is a simple React application that allows you to manage contacts using Firebase's Cloud Firestore as the backend database. The app provides functionality to add new contacts, view existing contacts, and update contact information.
 
-## Featureshttps://github.com/Hasnainbro/Firebase-Contact-Book/settings
+## Features
 
 * Add new contacts with name and email
 * View a list of existing contacts
