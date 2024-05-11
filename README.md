@@ -28,3 +28,13 @@ This project has the following dependencies:
 - `yup`: Object schema validator and object parser
 - `react-toastify`: React library for adding toast notifications
 - `react-icons`: Popular icons for React projects
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+  ```
+  git clone https://github.com/Hasnainbro/Firebase-Contact-Book.git
+    ````
